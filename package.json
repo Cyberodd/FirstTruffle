@@ -1,0 +1,16 @@
+{
+  "name": "firsttruffle",
+  "version": "1.0.0",
+  "description": "first truffle project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cyberodd",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "original-require": "^1.0.1",
+    "truffle": "^5.4.2"
+  }
+}
